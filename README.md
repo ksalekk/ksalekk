@@ -1,6 +1,5 @@
 # Hi 👋 I am Biomedical Enginnering student at Warsaw University of Technology.
 
-## 
 You can find here projects developed for my studies at the WUT. 
 
 <!---
