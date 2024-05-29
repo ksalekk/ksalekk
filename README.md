@@ -3,7 +3,7 @@
 You will find here both university projects and those made as part of language or technology learning.
 
 
-### Languages and Tools
+## Languages and Tools
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -32,4 +32,6 @@ You will find here both university projects and those made as part of language o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </p>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksalekk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="ksalekk" />
 
