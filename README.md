@@ -33,6 +33,6 @@ You will find here both university projects and those made as part of language o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </p>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksalekk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="ksalekk" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksalekk&theme=dark&hide_border=true&layout=compact" alt="ksalekk" />
   
 
