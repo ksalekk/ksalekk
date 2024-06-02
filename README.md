@@ -34,4 +34,5 @@ You will find here both university projects and those made as part of language o
   </p>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksalekk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="ksalekk" />
+  
 
